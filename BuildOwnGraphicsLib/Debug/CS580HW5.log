@@ -1,0 +1,173 @@
+﻿生成启动时间为 2015/4/6 19:01:25。
+     1>项目“E:\学习\USC\Books\MyBooks\580 3D Graphics_Homework\MyHomework\HW6\HW5\CS580HW5.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\CS580HW5.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\CS580HW5.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\CS580HW5.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp Application5.cpp CS580HW.cpp CS580HWDoc.cpp CS580HWView.cpp disp.cpp MainFrm.cpp rend.cpp RotateDlg.cpp ScaleDlg.cpp tex_fun.cpp TranslateDlg.cpp
+         TranslateDlg.cpp
+         tex_fun.cpp
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(32): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(58): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(58): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(59): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(59): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(23): warning C4101: “j”: 未引用的局部变量
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\tex_fun.cpp(106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         ScaleDlg.cpp
+         RotateDlg.cpp
+         rend.cpp
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(329): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(334): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(338): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(376): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(517): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(518): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\rend.cpp(519): warning C4305: “=”: 从“double”到“float”截断
+         MainFrm.cpp
+         disp.cpp
+         CS580HWView.cpp
+         CS580HWDoc.cpp
+         CS580HW.cpp
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\cs580hw.cpp(58): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(5344) : 参见“CWinApp::Enable3dControls”的声明
+         Application5.cpp
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(36): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(36): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(36): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(37): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(37): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(37): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(38): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(38): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(38): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(39): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(39): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(39): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(40): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(40): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(40): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(41): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(41): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(42): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(56): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(56): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(57): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(57): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(63): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(65): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(136): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(137): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(140): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(144): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(152): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(152): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(152): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(155): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(155): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(155): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(158): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(158): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(158): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(159): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(159): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(159): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(160): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(160): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(160): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(94): warning C4101: “shaderType”: 未引用的局部变量
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(273): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(283): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(289): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(295): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(301): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(374): warning C4244: “+=”: 从“float”转换到“GzIntensity”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(375): warning C4244: “+=”: 从“float”转换到“GzIntensity”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(376): warning C4244: “+=”: 从“float”转换到“GzIntensity”，可能丢失数据
+     1>e:\学习\usc\books\mybooks\580 3d graphics_homework\myhomework\hw6\hw5\application5.cpp(377): warning C4244: “+=”: 从“float”转换到“GzDepth”，可能丢失数据
+         Application.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0409" /nologo /fo".\Debug\CS580HW.res" CS580HW.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\CS580HW5.exe.embed.manifest.res" .\Debug\CS580HW5_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CS580HW5.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\CS580HW5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\学习\USC\Books\MyBooks\580 3D Graphics_Homework\MyHomework\HW6\HW5\Debug\CS580HW5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CS580HW5.lib" /MACHINE:X86 .\Debug\CS580HW.res
+         .\Debug\CS580HW5.exe.embed.manifest.res
+         .\Debug\Application.obj
+         .\Debug\Application5.obj
+         .\Debug\CS580HW.obj
+         .\Debug\CS580HWDoc.obj
+         .\Debug\CS580HWView.obj
+         .\Debug\disp.obj
+         .\Debug\MainFrm.obj
+         .\Debug\rend.obj
+         .\Debug\RotateDlg.obj
+         .\Debug\ScaleDlg.obj
+         .\Debug\StdAfx.obj
+         .\Debug\tex_fun.obj
+         .\Debug\TranslateDlg.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\CS580HW5.exe.embed.manifest" /manifest .\Debug\CS580HW5.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\CS580HW5.exe.embed.manifest.res" .\Debug\CS580HW5_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CS580HW5.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\CS580HW5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\学习\USC\Books\MyBooks\580 3D Graphics_Homework\MyHomework\HW6\HW5\Debug\CS580HW5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CS580HW5.lib" /MACHINE:X86 .\Debug\CS580HW.res
+         .\Debug\CS580HW5.exe.embed.manifest.res
+         .\Debug\Application.obj
+         .\Debug\Application5.obj
+         .\Debug\CS580HW.obj
+         .\Debug\CS580HWDoc.obj
+         .\Debug\CS580HWView.obj
+         .\Debug\disp.obj
+         .\Debug\MainFrm.obj
+         .\Debug\rend.obj
+         .\Debug\RotateDlg.obj
+         .\Debug\ScaleDlg.obj
+         .\Debug\StdAfx.obj
+         .\Debug\tex_fun.obj
+         .\Debug\TranslateDlg.obj
+         CS580HW5.vcxproj -> E:\学习\USC\Books\MyBooks\580 3D Graphics_Homework\MyHomework\HW6\HW5\.\Debug\CS580HW5.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\CS580HW5.unsuccessfulbuild”。
+         正在对“.\Debug\CS580HW5.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习\USC\Books\MyBooks\580 3D Graphics_Homework\MyHomework\HW6\HW5\CS580HW5.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.13
