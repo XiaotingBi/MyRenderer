@@ -1,6 +1,8 @@
 This is a homework project in course CS580 at USC.
 
-In this project, I build a small but useful graphics library; we'll call it the Gz library, and all functions, vars, etc, will be named accordingly. Certain standards will apply to make the code interfaces consistent. Consistency will be established by the use of prepared include files and an Application Program Interface (API).
+In this project, I build a small but useful graphics library; we'll call it the Gz library, and all functions, vars, etc, will be named
+accordingly. Certain standards will apply to make the code interfaces consistent. Consistency will be established by the use of prepared
+include files and an Application Program Interface (API).
 
 This renderer realizes: 
 	(1) scan converter using LEE Rasterization Method;
