@@ -8,3 +8,5 @@ This renderer realizes:
 	(3) three shading modes: flat shading, Gouraud shading and Phong shading;
 	(4) texture mapping with perspective correction (image texture mapping and procedural texture mapping);
 	(5) antialiasing with unweighted or weighted filters.
+
+Most of major functions are implemented in "rend.cpp", "disp.cpp" and "Application5.cpp" files.
